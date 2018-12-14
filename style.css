@@ -7,3 +7,13 @@
   width: 80%;
   margin: 0 auto;
 }
+
+.myPhoto {
+  transform: rotate(90deg);
+  width: 200px;
+  height: 170px;
+}
+
+.floatPara{
+  float:left;
+}
